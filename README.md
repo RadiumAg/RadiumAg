@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on ... 
+- hangzhou
+- 🌱 I’m currently learning ...
+- vue,react,typescript
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RadiumAg)](https://github.com/RadiumAg/github-readme-stats)
