@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ... 
-- hangzhou
 - 🌱 I’m currently learning ...
-- vue,react,typescript
+- vue,react,typescript,css
+
+🤔 I’m looking for help with ...
+- vue,react,typescript,css
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RadiumAg)](https://github.com/RadiumAg/github-readme-stats)
