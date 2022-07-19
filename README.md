@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+Cancel changes
 - 🌱 I’m currently learning ...
-- vue,react,typescript,css
+- [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,docker,sass,selenium,vscode,dotnet,cs)](https://skillicons.dev)
 
 🤔 I’m looking for help with ...
-- vue,react,typescript,css
+- [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,docker,sass,selenium,vscode,dotnet,cs)](https://skillicons.dev)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RadiumAg)](https://github.com/RadiumAg/github-readme-stats)
