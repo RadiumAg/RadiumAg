@@ -7,7 +7,7 @@
 - 🤯 重学Javascript,TypeScript
 - 🤔 重学css3
 - ✍️ 学习原生SVG
- -🥰 学习C#
+- 🥰 学习C#
   </span>
  
 </div>
