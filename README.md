@@ -3,7 +3,7 @@
  <span>
    <img width="400" align="right" alt="image" src="https://user-images.githubusercontent.com/48897151/199874608-27d21bda-48dc-457c-8fb6-a23a7e0750dd.png">
   
-- 🚧 继续开发tabletool
+- 🚧 一年一度重学算法
 - 🤯 重学Javascript,TypeScript
 - 🤔 重学css3
 - ✍️ 学习原生SVG
