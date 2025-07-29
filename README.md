@@ -26,3 +26,5 @@
   <img width="57.5%" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=RadiumAg&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00&custom_title=Development+Activity" />
   <img width="42.4%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=RadiumAg&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00&langs_count=6&exclude_repo=non_tech_repo" />
 </div>
+
+<img align="" width="99.9%" src="https://github-readme-activity-graph-qpqpgkqdk-edison1105.vercel.app/graph?username=RadiumAg&theme=nord&color=41b883&point=41b883&hide_border=true&line=959598&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
